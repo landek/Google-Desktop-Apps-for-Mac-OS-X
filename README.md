@@ -36,7 +36,6 @@ Below is a list of all the apps currently available and instructions on how to d
 **Educational Apps**
 * [Classroom](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/masterClassroom)
 * [Scholar](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Scholar)
-* [Digital Garage](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Digital%20Garage)
 * [Earth](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Earth)
 
 **Business & Data Apps**
