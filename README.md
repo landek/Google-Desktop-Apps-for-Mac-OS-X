@@ -9,42 +9,44 @@ Below is a list of all the apps currently available and instructions on how to d
 
 # List of Google Apps Available
 **Core Google Apps**
-* [Google](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google)
-* [Gmail](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Gmail)
-* [Drive](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-Drive)
-* [Maps](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-Maps)
-* [Web Store](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Chrome-Web-Store)
+* [Google](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Google)
+* [Gmail](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Gmail)
+* [Inbox](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Inbox)
+* [Drive](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Drive)
+* [Maps](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Maps)
+* [Web Store](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Chrome%20Web%20Store)
 
 **Google Drive-Associated Apps**
-* [Docs](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-Docs)
-* [Sheets](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-Sheets)
-* [Slides](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-Slides)
-* [Forms](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-Forms)
+* [Docs](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Docs)
+* [Sheets](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Sheets)
+* [Slides](https://github.com/landek/Google-Desktop-Apps-for-OS-X/tree/master/Slides)
+* [Forms](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Forms)
 
 **Calendar, Notes, & To-Do Apps**
-* [Calendar](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-Calendar)
-* [Keep](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-Keep)
-* [Tasks](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-Tasks)
+* [Calendar](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Calendar)
+* [Keep](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/masterKeep)
+* [Tasks](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/masterTasks)
 
 **Entertainment & Fun, & Education Apps**
-* [Youtube](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Youtube)
-* [Google Music](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-Music)
-* [Youtube Kids](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Youtube-Kids)
-* [Express](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-Express)
+* [Youtube](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/masterYoutube)
+* [Google Music](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Music)
+* [Youtube Kids](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Youtube%20Kids)
+* [Express](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/masterExpress)
 
 **Educational Apps**
-* [Classroom](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-for-Classroom)
-* [Scholar](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-Scholar)
-* [Digital Workshop](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-Digital-Workshop)
-* [Earth](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-Earth)
+* [Classroom](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/masterClassroom)
+* [Scholar](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Scholar)
+* [Digital Garage](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Digital%20Garage)
+* [Earth](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Earth)
 
 **Business & Data Apps**
-* [Cloud Console](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-Cloud-Console)
-* [Blogger](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Blogger)
-* [Analytics](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-Analytics)
-* [Adwords](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-Adwords)
-* [Optimize](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-Optimize)
-* [Surveys](https://github.com/landek/Google-Desktop-Apps-for-Mac-OSX/Google-Surveys))
+* [Cloud Console](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Cloud%20Console)
+* [Blogger](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Blogger)
+* [Analytics](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Analytics)
+* [Adwords](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Adwords)
+* [Adsense](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Adsense)
+* [Optimize](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/masterOptimize)
+* [Surveys](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/masterSurveys)
 
 # How Do I Download One, Two, or All of them?
 **You have two options:**
