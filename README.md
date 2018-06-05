@@ -24,17 +24,18 @@ Below is a list of all the apps currently available and instructions on how to d
 
 **Calendar, Notes, & To-Do Apps**
 * [Calendar](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Calendar)
-* [Keep](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/masterKeep)
-* [Tasks](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/masterTasks)
+* [Keep](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Keep)
+* [Tasks](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Tasks)
 
 **Entertainment & Fun, & Education Apps**
-* [Youtube](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/masterYoutube)
+* [Youtube](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Youtube)
+* [Photos](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Photos)
 * [Google Music](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Music)
 * [Youtube Kids](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Youtube%20Kids)
-* [Express](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/masterExpress)
+* [Express](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Express)
 
 **Educational Apps**
-* [Classroom](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/masterClassroom)
+* [Classroom](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Classroom)
 * [Scholar](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Scholar)
 * [Earth](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Earth)
 
@@ -44,8 +45,8 @@ Below is a list of all the apps currently available and instructions on how to d
 * [Analytics](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Analytics)
 * [Adwords](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Adwords)
 * [Adsense](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Adsense)
-* [Optimize](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/masterOptimize)
-* [Surveys](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/masterSurveys)
+* [Optimize](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Optimize)
+* [Surveys](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Surveys)
 
 # How Do I Download One, Two, or All of them?
 **You have two options:**
@@ -53,8 +54,16 @@ Below is a list of all the apps currently available and instructions on how to d
 2. Download the .zip files from this github repo. (The barely harder option)
 
 **Downloading from Github**
-1. Download all the apps by downloading the folder in this repo called [**Google Apps for Mac OS X**]()
-2. Download individual apps by going to the individual folders for each application and download the .zip file in the folder. You do _not_ need to download the whole folder, just the .zip file, i.e. inside the Gmail folder you'd download [**Gmail-Desktop-App.zip**]() and unzip it.
+1. Download all the apps by downloading the folder in this repo called [**Download Apps**](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/tree/master/Download%20Apps)
+--That folder has a .zip file that contains the app. Just un-zip and use!
+2. Download individual apps by going to the individual folders for each application and download the .zip file in the folder. You do _not_ need to download the whole folder, just the .zip file, i.e. inside the Gmail folder you'd download [**Gmail.zip**](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/blob/master/Gmail/Gmail.zip) and unzip it.
+
+**Click the image below to watch an ~60 second Youtube video on how to download, open, and modify your security settings to allow the apps to open**
+[![How to Download](https://github.com/landek/Google-Desktop-Apps-for-Mac-OS-X/blob/master/youtubevideoscreenshot.png)](https://youtu.be/RQSgiJPDGfg)
+
+# Opening Apps from an Unidentified Developer!
+**Important final step to use the apps**
+Due to the fact that I am an "unidentified" developer by Apple, you'll need to go into your "Security & Privacy" settings in System Preferences after unzipping and double-clicking on the app you download. Once in there, you'll see on the main page a little dialog box asking if you want to open the app anyway. The video below that shows how to download and open apps also shows how you navigate the security settings.
 
 # How were these all made?
 It is really simple. They are built with Javascript and MacGap, just one line of code to wrap the particular Google app in a window on your desktop. All made possible by [MacGap](https://github.com/MacGapProject/MacGap2). Build your own wrapper for an HTML5 app using instructions on [MacGap-rb](https://github.com/maccman/macgap-rb).
