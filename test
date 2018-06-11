@@ -1,0 +1,95 @@
+Tony Landek
+June 10th, 2018
+
+Assignment #1—Pseudo Code
+
+/**
+* Doing Laundry at the Laundromat
+* By: Tony Landek, Date: 6/11/2018
+*
+* Assumes you have put your laundry in some sort of bags, entered the laundromat, and have came with laundry detergent and dryer sheets.
+*
+*
+*/
+
+StepOne FindOpenMachines        //Step will be repeated for washers and dryers
+{
+    Question: Have you found enough unused washers OR dryers to put all your clothes in?
+    /* Check that you have found enough washers or for all your laundry
+    If yes, then claim machine by putting your clothes in it
+    If no, repeat StepOne
+    
+        Question: Are you using washers or dryers?
+        If washers, then continue to StepTwo
+        Else, continue to StepFive
+
+}
+
+StepTwo AmountOfMoneyNeeded        //Determine the amount of money needed to obtain to start laundry
+{
+    Question: Have you determined how much money you will need for washers and dryers? 
+    If yes, continue to StepThree       
+    If no, repeat StepTwo
+
+}
+
+StepThree PayForLaundry         //Convert your cash into quarters
+{
+    Question: Do you have enough cash to convert into quarters?
+    /* Assumes the laundromat uses quarters only
+    
+    If yes, put enough cash into cash to quarters machine to equal OR exceed cost of washers and dryers needed
+    /**
+    Unlikely the amount of quarters needed will round to an exact dollar amount
+    Most laundry mats will convert quarters into cash if you have any leftover
+    */
+    If no, go get cash from an ATM and repeat StepThree until you have enough cash when you have enough cash       //Usually laundromats will have ATMs on-site
+
+            Question: Are you using a washer?
+            If yes, continue to StepFour
+            If no, continue to StepFive
+        
+}
+
+StepFour LaundryDetergentInWasher
+{
+    Question: Have you put the correct amount of laundry detergent in washer according to the directions on the machine?
+    If yes, continue to StepSix
+    If no, determine correct amount from instructions on machine
+        {
+        Then, put deteregent in machine
+        And, continue to StepSix
+        }
+      
+}       
+
+StepFive DryerSheetsInDryer
+{
+    Question: Have you put dryers sheets in each dryer being used?
+    If yes, continue to StepSix
+    Otherwise, put dryer sheet in each dryer
+    And, continue to StepSix
+}
+
+StepSix StartMachine
+{
+    Question: Have you selected correct setting for the machine being used?
+    If yes, then start the machine
+    If no, determine the correct setting and start machine
+        
+        Question: Are you using a washer or dryer?
+        If washer, then when machine is finished continue to StepOne
+        Else, continue to StepSeven
+}
+
+StepSeven PutClothesInBags
+{
+    Question: Have you removed your laundry from dryers?
+    If yes, put them into bags
+    If no, repeat StepSeven
+    
+        Question: Have your collected all your laundry supplies?
+        If yes, leave the laundromat with your clean clothes        //Woo! Laundry is done.
+        If no, collect laundry supplies and leave the laundromat with your clean clothes      
+ }
+ /* Assumes that you are tired and not a fan of the laundromat so you will sort, fold, and hang your clothes up when you return home
