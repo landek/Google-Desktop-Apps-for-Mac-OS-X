@@ -22,7 +22,6 @@ StepOne FindOpenMachines        //Step will be repeated for washers and dryers
         Question: Are you using washers or dryers?
         If washers, then continue to StepTwo
         Else, continue to StepFive
-
 }
 
 StepTwo AmountOfMoneyNeeded        //Determine the amount of money needed to obtain to start laundry
@@ -30,7 +29,6 @@ StepTwo AmountOfMoneyNeeded        //Determine the amount of money needed to obt
     Question: Have you determined how much money you will need for washers and dryers? 
     If yes, continue to StepThree       
     If no, repeat StepTwo
-
 }
 
 StepThree PayForLaundry         //Convert your cash into quarters
@@ -47,8 +45,7 @@ StepThree PayForLaundry         //Convert your cash into quarters
 
             Question: Are you using a washer?
             If yes, continue to StepFour
-            If no, continue to StepFive
-        
+            If no, continue to StepFive 
 }
 
 StepFour LaundryDetergentInWasher
@@ -60,15 +57,17 @@ StepFour LaundryDetergentInWasher
         Then, put deteregent in machine
         And, continue to StepSix
         }
-      
 }       
 
 StepFive DryerSheetsInDryer
 {
     Question: Have you put dryers sheets in each dryer being used?
     If yes, continue to StepSix
-    Otherwise, put dryer sheet in each dryer
+    If no, determine the correct number of dryer sheets needed
+    {
+    Then, put one in each dryer
     And, continue to StepSix
+    }
 }
 
 StepSix StartMachine
